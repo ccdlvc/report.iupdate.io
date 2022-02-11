@@ -76,7 +76,7 @@
     "eslint": "1.9.0",
     "eslint-plugin-getsentry": "1.0.0",
     "eslint-plugin-react": "3.11.2",
-    "karma": "0.13.22",
+    "karma": "6.3.14",
     "karma-chai": "0.1.0",
     "karma-mocha": "0.1.10",
     "karma-phantomjs-launcher": "1.0.2",
